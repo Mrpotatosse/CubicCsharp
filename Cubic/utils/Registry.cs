@@ -24,6 +24,6 @@ namespace Cubic.utils
 
         public static readonly TypeRegistry DatabaseRegistry = TypeRegistry.FromFiles(
             ModelReflection.Descriptor
-            );
+        );
     }
 }
