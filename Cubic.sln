@@ -5,6 +5,8 @@ VisualStudioVersion = 17.13.35818.85 d17.13
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cubic", "Cubic\Cubic.csproj", "{25A412FE-2FEA-4CEF-A195-CAFD55D74B95}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CubicTest", "CubicTest\CubicTest.csproj", "{88C8619A-7543-49BC-B2CC-6362C3F388E1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{25A412FE-2FEA-4CEF-A195-CAFD55D74B95}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{25A412FE-2FEA-4CEF-A195-CAFD55D74B95}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{25A412FE-2FEA-4CEF-A195-CAFD55D74B95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88C8619A-7543-49BC-B2CC-6362C3F388E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88C8619A-7543-49BC-B2CC-6362C3F388E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88C8619A-7543-49BC-B2CC-6362C3F388E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88C8619A-7543-49BC-B2CC-6362C3F388E1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,8 +1,8 @@
-﻿using Cubic.utils;
-using Cubic.V1.Protocol;
+﻿using Cubic.V1.Protocol;
+using Cubic.V1.Utils;
 using Google.Protobuf;
 
-namespace Cubic.parser
+namespace Cubic.V1.Parser
 {
     public class JsonProtocolParser
     {

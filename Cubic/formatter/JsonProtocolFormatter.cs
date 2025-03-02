@@ -1,9 +1,9 @@
-﻿using Cubic.utils;
-using Cubic.V1.Protocol;
+﻿using Cubic.V1.Protocol;
+using Cubic.V1.Utils;
 using Google.Protobuf;
 using Google.Protobuf.WellKnownTypes;
 
-namespace Cubic.formatter
+namespace Cubic.V1.Formatter
 {
     public class JsonProtocolFormatter
     {

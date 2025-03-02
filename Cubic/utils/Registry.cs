@@ -6,7 +6,7 @@ using Cubic.V1.Protocol.Http;
 using Cubic.V1.Protocol.World;
 using Google.Protobuf.Reflection;
 
-namespace Cubic.utils
+namespace Cubic.V1.Utils
 {
     public sealed class Registry
     {
@@ -18,8 +18,6 @@ namespace Cubic.utils
             EventReflection.Descriptor,
             ProtocolReflection.Descriptor,
             HttpReflection.Descriptor
-
-
         );
 
         public static readonly TypeRegistry DatabaseRegistry = TypeRegistry.FromFiles(
