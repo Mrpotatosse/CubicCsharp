@@ -28,28 +28,30 @@ namespace Cubic.V1.Database.Model {
             "bW9kZWwaH2dvb2dsZS9wcm90b2J1Zi90aW1lc3RhbXAucHJvdG8iIAoIUG9z",
             "aXRpb24SCQoBeBgBIAEoAxIJCgF5GAIgASgDImMKBVN0YXRzEg8KB21heExp",
             "ZmUYASABKAQSDwoHbWF4TWFuYRgCIAEoBBINCgVlYXJ0aBgDIAEoBBINCgV3",
-            "YXRlchgEIAEoBBIMCgRmaXJlGAUgASgEEgwKBHdpbmQYBiABKAQilQIKBFNv",
+            "YXRlchgEIAEoBBIMCgRmaXJlGAUgASgEEgwKBHdpbmQYBiABKAQi6AIKBFNv",
             "dWwSDAoEbGlmZRgBIAEoBBISCgpleHBlcmllbmNlGAIgASgEEgwKBG1hbmEY",
             "AyABKAQSLQoFc3RhdHMYBCABKAsyHi5jdWJpYy52MS5kYXRhYmFzZS5tb2Rl",
             "bC5TdGF0cxISCgpzdGF0c1BvaW50GAUgASgEEjMKCHBvc2l0aW9uGAYgASgL",
             "MiEuY3ViaWMudjEuZGF0YWJhc2UubW9kZWwuUG9zaXRpb24SMgoOZGF0ZU9m",
-            "Q3JlYXRpb24YByABKAsyGi5nb29nbGUucHJvdG9idWYuVGltZXN0YW1wEjEK",
-            "DW1vdmVtZW50VGltZXIYCCABKAsyGi5nb29nbGUucHJvdG9idWYuVGltZXN0",
-            "YW1wIiUKBUFzc2V0Eg0KBWRlbm9tGAEgASgJEg0KBXZhbHVlGAIgASgEIqkB",
-            "CgRDZWxsEjMKCHBvc2l0aW9uGAIgASgLMiEuY3ViaWMudjEuZGF0YWJhc2Uu",
-            "bW9kZWwuUG9zaXRpb24SMQoEc291bBgDIAEoCzIhLmN1YmljLnYxLmRhdGFi",
-            "YXNlLm1vZGVsLkNlbGxTb3VsSAASMwoFYmxvY2sYBCABKAsyIi5jdWJpYy52",
-            "MS5kYXRhYmFzZS5tb2RlbC5DZWxsQmxvY2tIAEIECgJvbiIbCghDZWxsU291",
-            "bBIPCgdhZGRyZXNzGAEgASgMIhkKCUNlbGxCbG9jaxIMCgRsaWZlGAEgASgE",
-            "Kj0KEU1vdmVtZW50RGlyZWN0aW9uEgcKA1RPUBAAEgkKBVJJR0hUEAESCgoG",
-            "Qk9UVE9NEAISCAoETEVGVBADQjhaNmdpdGh1Yi5jb20vTXJwb3RhdG9zc2Uv",
-            "Y3ViaWMvcGtnL2FwaS9wYi92MS9kYXRhYmFzZTtkYmIGcHJvdG8z"));
+            "Q3JlYXRpb24YByABKAsyGi5nb29nbGUucHJvdG9idWYuVGltZXN0YW1wEjkK",
+            "BnRpbWVycxgIIAMoCzIpLmN1YmljLnYxLmRhdGFiYXNlLm1vZGVsLlNvdWwu",
+            "VGltZXJzRW50cnkaSQoLVGltZXJzRW50cnkSCwoDa2V5GAEgASgJEikKBXZh",
+            "bHVlGAIgASgLMhouZ29vZ2xlLnByb3RvYnVmLlRpbWVzdGFtcDoCOAEiJQoF",
+            "QXNzZXQSDQoFZGVub20YASABKAkSDQoFdmFsdWUYAiABKAQiqQEKBENlbGwS",
+            "MwoIcG9zaXRpb24YAiABKAsyIS5jdWJpYy52MS5kYXRhYmFzZS5tb2RlbC5Q",
+            "b3NpdGlvbhIxCgRzb3VsGAMgASgLMiEuY3ViaWMudjEuZGF0YWJhc2UubW9k",
+            "ZWwuQ2VsbFNvdWxIABIzCgVibG9jaxgEIAEoCzIiLmN1YmljLnYxLmRhdGFi",
+            "YXNlLm1vZGVsLkNlbGxCbG9ja0gAQgQKAm9uIhsKCENlbGxTb3VsEg8KB2Fk",
+            "ZHJlc3MYASABKAwiGQoJQ2VsbEJsb2NrEgwKBGxpZmUYASABKAQqPQoRTW92",
+            "ZW1lbnREaXJlY3Rpb24SBwoDVE9QEAASCQoFUklHSFQQARIKCgZCT1RUT00Q",
+            "AhIICgRMRUZUEANCOFo2Z2l0aHViLmNvbS9NcnBvdGF0b3NzZS9jdWJpYy9w",
+            "a2cvYXBpL3BiL3YxL2RhdGFiYXNlO2RiYgZwcm90bzM="));
       descriptor = pbr::FileDescriptor.FromGeneratedCode(descriptorData,
           new pbr::FileDescriptor[] { global::Google.Protobuf.WellKnownTypes.TimestampReflection.Descriptor, },
           new pbr::GeneratedClrTypeInfo(new[] {typeof(global::Cubic.V1.Database.Model.MovementDirection), }, null, new pbr::GeneratedClrTypeInfo[] {
             new pbr::GeneratedClrTypeInfo(typeof(global::Cubic.V1.Database.Model.Position), global::Cubic.V1.Database.Model.Position.Parser, new[]{ "X", "Y" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::Cubic.V1.Database.Model.Stats), global::Cubic.V1.Database.Model.Stats.Parser, new[]{ "MaxLife", "MaxMana", "Earth", "Water", "Fire", "Wind" }, null, null, null, null),
-            new pbr::GeneratedClrTypeInfo(typeof(global::Cubic.V1.Database.Model.Soul), global::Cubic.V1.Database.Model.Soul.Parser, new[]{ "Life", "Experience", "Mana", "Stats", "StatsPoint", "Position", "DateOfCreation", "MovementTimer" }, null, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::Cubic.V1.Database.Model.Soul), global::Cubic.V1.Database.Model.Soul.Parser, new[]{ "Life", "Experience", "Mana", "Stats", "StatsPoint", "Position", "DateOfCreation", "Timers" }, null, null, null, new pbr::GeneratedClrTypeInfo[] { null, }),
             new pbr::GeneratedClrTypeInfo(typeof(global::Cubic.V1.Database.Model.Asset), global::Cubic.V1.Database.Model.Asset.Parser, new[]{ "Denom", "Value" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::Cubic.V1.Database.Model.Cell), global::Cubic.V1.Database.Model.Cell.Parser, new[]{ "Position", "Soul", "Block" }, new[]{ "On" }, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::Cubic.V1.Database.Model.CellSoul), global::Cubic.V1.Database.Model.CellSoul.Parser, new[]{ "Address" }, null, null, null, null),
@@ -711,7 +713,7 @@ namespace Cubic.V1.Database.Model {
       statsPoint_ = other.statsPoint_;
       position_ = other.position_ != null ? other.position_.Clone() : null;
       dateOfCreation_ = other.dateOfCreation_ != null ? other.dateOfCreation_.Clone() : null;
-      movementTimer_ = other.movementTimer_ != null ? other.movementTimer_.Clone() : null;
+      timers_ = other.timers_.Clone();
       _unknownFields = pb::UnknownFieldSet.Clone(other._unknownFields);
     }
 
@@ -805,16 +807,18 @@ namespace Cubic.V1.Database.Model {
       }
     }
 
-    /// <summary>Field number for the "movementTimer" field.</summary>
-    public const int MovementTimerFieldNumber = 8;
-    private global::Google.Protobuf.WellKnownTypes.Timestamp movementTimer_;
+    /// <summary>Field number for the "timers" field.</summary>
+    public const int TimersFieldNumber = 8;
+    private static readonly pbc::MapField<string, global::Google.Protobuf.WellKnownTypes.Timestamp>.Codec _map_timers_codec
+        = new pbc::MapField<string, global::Google.Protobuf.WellKnownTypes.Timestamp>.Codec(pb::FieldCodec.ForString(10, ""), pb::FieldCodec.ForMessage(18, global::Google.Protobuf.WellKnownTypes.Timestamp.Parser), 66);
+    private readonly pbc::MapField<string, global::Google.Protobuf.WellKnownTypes.Timestamp> timers_ = new pbc::MapField<string, global::Google.Protobuf.WellKnownTypes.Timestamp>();
+    /// <summary>
+    /// google.protobuf.Timestamp movementTimer = 9;
+    /// </summary>
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
-    public global::Google.Protobuf.WellKnownTypes.Timestamp MovementTimer {
-      get { return movementTimer_; }
-      set {
-        movementTimer_ = value;
-      }
+    public pbc::MapField<string, global::Google.Protobuf.WellKnownTypes.Timestamp> Timers {
+      get { return timers_; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -839,7 +843,7 @@ namespace Cubic.V1.Database.Model {
       if (StatsPoint != other.StatsPoint) return false;
       if (!object.Equals(Position, other.Position)) return false;
       if (!object.Equals(DateOfCreation, other.DateOfCreation)) return false;
-      if (!object.Equals(MovementTimer, other.MovementTimer)) return false;
+      if (!Timers.Equals(other.Timers)) return false;
       return Equals(_unknownFields, other._unknownFields);
     }
 
@@ -854,7 +858,7 @@ namespace Cubic.V1.Database.Model {
       if (StatsPoint != 0UL) hash ^= StatsPoint.GetHashCode();
       if (position_ != null) hash ^= Position.GetHashCode();
       if (dateOfCreation_ != null) hash ^= DateOfCreation.GetHashCode();
-      if (movementTimer_ != null) hash ^= MovementTimer.GetHashCode();
+      hash ^= Timers.GetHashCode();
       if (_unknownFields != null) {
         hash ^= _unknownFields.GetHashCode();
       }
@@ -901,10 +905,7 @@ namespace Cubic.V1.Database.Model {
         output.WriteRawTag(58);
         output.WriteMessage(DateOfCreation);
       }
-      if (movementTimer_ != null) {
-        output.WriteRawTag(66);
-        output.WriteMessage(MovementTimer);
-      }
+      timers_.WriteTo(output, _map_timers_codec);
       if (_unknownFields != null) {
         _unknownFields.WriteTo(output);
       }
@@ -943,10 +944,7 @@ namespace Cubic.V1.Database.Model {
         output.WriteRawTag(58);
         output.WriteMessage(DateOfCreation);
       }
-      if (movementTimer_ != null) {
-        output.WriteRawTag(66);
-        output.WriteMessage(MovementTimer);
-      }
+      timers_.WriteTo(ref output, _map_timers_codec);
       if (_unknownFields != null) {
         _unknownFields.WriteTo(ref output);
       }
@@ -978,9 +976,7 @@ namespace Cubic.V1.Database.Model {
       if (dateOfCreation_ != null) {
         size += 1 + pb::CodedOutputStream.ComputeMessageSize(DateOfCreation);
       }
-      if (movementTimer_ != null) {
-        size += 1 + pb::CodedOutputStream.ComputeMessageSize(MovementTimer);
-      }
+      size += timers_.CalculateSize(_map_timers_codec);
       if (_unknownFields != null) {
         size += _unknownFields.CalculateSize();
       }
@@ -1023,12 +1019,7 @@ namespace Cubic.V1.Database.Model {
         }
         DateOfCreation.MergeFrom(other.DateOfCreation);
       }
-      if (other.movementTimer_ != null) {
-        if (movementTimer_ == null) {
-          MovementTimer = new global::Google.Protobuf.WellKnownTypes.Timestamp();
-        }
-        MovementTimer.MergeFrom(other.MovementTimer);
-      }
+      timers_.Add(other.timers_);
       _unknownFields = pb::UnknownFieldSet.MergeFrom(_unknownFields, other._unknownFields);
     }
 
@@ -1082,10 +1073,7 @@ namespace Cubic.V1.Database.Model {
             break;
           }
           case 66: {
-            if (movementTimer_ == null) {
-              MovementTimer = new global::Google.Protobuf.WellKnownTypes.Timestamp();
-            }
-            input.ReadMessage(MovementTimer);
+            timers_.AddEntriesFrom(input, _map_timers_codec);
             break;
           }
         }
@@ -1141,10 +1129,7 @@ namespace Cubic.V1.Database.Model {
             break;
           }
           case 66: {
-            if (movementTimer_ == null) {
-              MovementTimer = new global::Google.Protobuf.WellKnownTypes.Timestamp();
-            }
-            input.ReadMessage(MovementTimer);
+            timers_.AddEntriesFrom(ref input, _map_timers_codec);
             break;
           }
         }
